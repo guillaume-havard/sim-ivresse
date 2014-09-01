@@ -83,13 +83,13 @@ Fichier SimTxt.py
 Permet de lancer une interface graphique pour lancer la simulation.  
 Necessite `tkinter`.
 
->>> python3 SimTxt.py
+    python3 SimTxt.py
 
 La simulation sans vue
 ----------------------
 Fichier SimTxtr.py
 
->>> python3 SimTxtr.py nb-iter
+    python3 SimTxtr.py nb-iter
 
 Cela fera nb-iter tests pour tous les taux d'alcoolémie de 0 à 100 avec un pas
 de 10, 'X' étant donné en paramètre au lancement du script.   
@@ -135,8 +135,9 @@ qui, même avec une distance moyenne faible, l'entraine souvent sur la route.
 Biologiquement, On pourrait interpréter ce phénomène par un engourdissement
 progressif de l'humain proportionnel à son taux d'alcoolémie, ce qui le
 ralentirai, cependant après avoir dépassé limite (75%) il se mettrait en sur
-régime et déambulerait dans tous les sens. Pour conclure, il faut boire,
-beaucoup, mais pas trop !
+régime et déambulerait dans tous les sens. 
+
+Pour conclure, il faut boire, beaucoup, mais pas trop !
 
 
 
